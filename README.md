@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**thaixx/thaixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Thais Machado
 
-Here are some ideas to get you started:
+🎯 QA Analyst | Aspiring Back-End Developer  
+🧪 Passionate about testing, automation, and clean code  
+🌎 Fluent in English | 🇧🇷 Based in Brazil | Open to remote roles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- QA: Cypress | Robot Framework | Postman | K6 | Qase
+- Dev: JavaScript | Python | REST APIs
+- Tools: Git | VS Code | Jira | SQL
+
+## 📂 Featured Projects
+- [QA Automation with Cypress](https://github.com/thaixx/test_cypress)
+- [Data Structures and Algorithms](https://github.com/thaixx/dataStructuresAndAlgorithms)
+- [Simple Node.js API](https://github.com/thaixx/simple-api-nodejs)
+
+## 📫 How to reach me
+- 📧 machado.thais.06@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/thais-machado-qa/)
